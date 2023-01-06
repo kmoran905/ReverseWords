@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  * May 26, 2021
- * @author KHYLE
  */
 public class ReverseWords {
 
